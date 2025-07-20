@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🌙 awilix
 
-<!--
-**awilix-23/awilix-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> hi there, i’m awilix !
 
-Here are some ideas to get you started:
+## ✨ about
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i like writing random, useless tools and learning how computers *really* work.
+
+currently working on:
+
+- 🐚 bash scripting & cli tools
+- 🕸️ web stuff (a little html/css/js)
+- 💾 low-level programming in C
+- 📘 reading *Data Structures, Algorithms, and Software Principles in C*
+
+## 🛠️ projects
+
+here’s some stuff i’m tinkering with:
+
+- solutions to the C book i'm reading: [`dsa_c`](https://github.com/awilix-23/dsa_c) 
+- my setup: [`dotfiles`](https://github.com/awilix-23/dotfiles)
+- odin project stuff: [`library`](https://github.com/awilix-23/Library)
+ 
+> thanks for stopping by !
