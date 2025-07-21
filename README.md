@@ -17,7 +17,7 @@ currently working on:
 
 here’s some stuff i’m tinkering with:
 
-- solutions to the C book i'm reading: [`dsa_c`](https://github.com/awilix-23/dsa_c) 
+- solutions to the C book i'm reading: [`dsa_sp_in_c`](https://github.com/awilix-23/dsa_sp_in_c) 
 - my setup: [`dotfiles`](https://github.com/awilix-23/dotfiles)
 - odin project stuff: [`library`](https://github.com/awilix-23/Library)
  
