@@ -1,24 +1,23 @@
-# 🌙 awilix
+# 🌓 awilix
 
-> hi there, i’m awilix !
+> hi !
 
 ## ✨ about
 
 i like writing random, useless tools and learning how computers *really* work.
 
-currently working on:
-
-- 🐚 bash scripting & cli tools
-- 🕸️ web stuff (a little html/css/js)
-- 💾 low-level programming in C
-- 📘 reading *Data Structures, Algorithms, and Software Principles in C*
+current favourite things to code in:
+ + 🐚 Shell (bash/dash)
+ + ⚙️ C
+ + 🌙 Lua
+ + 👩‍🔬 Fortran 
 
 ## 🛠️ projects
 
 here’s some stuff i’m tinkering with:
 
-- solutions to the C book i'm reading: [`dsa_sp_in_c`](https://github.com/awilix-23/dsa_sp_in_c) 
+- computational chemistry scripts [`chemtools`](https://github.com/awilix-23/chemtools)
 - my setup: [`dotfiles`](https://github.com/awilix-23/dotfiles)
-- odin project stuff: [`library`](https://github.com/awilix-23/Library)
+- solutions to the C book i'm reading: [`dsa_sp_in_c`](https://github.com/awilix-23/dsa_sp_in_c)
  
 > thanks for stopping by !
